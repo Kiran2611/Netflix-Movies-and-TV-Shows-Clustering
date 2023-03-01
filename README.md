@@ -1,4 +1,4 @@
-# Netflix-Movies-and-TV-Shows-Clustering
+
 <h1 align="center"> Netflix Movies and TV Shows Clustering</h1>
 <h5 align="center"> AlmaBetter Verified Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
